@@ -1,1 +1,4 @@
-public class Practicum {}
+public class Praktikum {
+    public static void main(String[] args) {
+}
+}
